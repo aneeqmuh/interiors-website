@@ -1,8 +1,7 @@
 
   # Interior Design Landing Page
 
-  This is a code bundle for Interior Design Landing Page. The original project is available at https://www.figma.com/design/IZRvLq7TSYFMib7kAMiojM/Interior-Design-Landing-Page.
-
+  This is a code bundle for Interior Design Landing Page. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
