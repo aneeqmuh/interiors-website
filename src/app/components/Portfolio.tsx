@@ -2,7 +2,6 @@ import moodboard1 from "../../assets/bedroom.png";
 import moodboard2 from "../../assets/bachelor.png";
 import visual3d from "../../assets/ea4dc1140644623e74ef6cecf373f96a7dbf5ef9.png";
 import clientBrief from "../../assets/fa735e5079732cb5174402d59460b2d63f6e4403.png";
-import fullPortfolio from "../../assets/copy_of_concept.pdf";
 import moodboard3 from "../../assets/office.png";
 import moodboard4 from "../../assets/beach.png";
 
@@ -76,15 +75,6 @@ export function Portfolio() {
           ))}
         </div>
 
-        <div className="text-center mt-16">
-          <a
-            href={fullPortfolio}
-            download
-            className="inline-block border-2 border-[#2C3E50] text-[#2C3E50] px-10 py-4 text-sm hover:bg-[#2C3E50] hover:text-[#DDD5C7] transition-all tracking-[0.15em] uppercase"
-          >
-            Download Full Portfolio
-          </a>
-        </div>
       </div>
     </section>
   );
