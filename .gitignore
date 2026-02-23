@@ -28,3 +28,6 @@ Thumbs.db
 # IDE / editor
 .vscode/
 .idea/
+
+# Oversized asset not suitable for GitHub push
+src/assets/copy_of_concept.pdf
